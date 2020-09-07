@@ -1,0 +1,5 @@
+/*
+ * This is a multi-line block comment.
+ * Only the code on the next line should be parsed.
+ */
+var id = "ID";
